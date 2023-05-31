@@ -1,0 +1,37 @@
+#nav-bar-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  padding-top: 20px;
+}
+
+.logo-container {
+  display: flex;
+}
+.logo-container .logo-text {
+  font-size: 30pt;
+}
+
+.logo-text.p1 {
+  font-weight: 700;
+  color: #3F51B5;
+}
+
+.logo-text.p2 {
+  font-weight: 400;
+  color: #444;
+}
+
+.nav-bar-btns-container {
+  margin-left: 100px;
+}
+
+.nav-bar-btns-container button {
+  font-size: 12pt;
+  font-weight: 300;
+}
+
+.active-page-btn {
+  color: #3F51B5;
+  font-weight: 500 !important;
+}
