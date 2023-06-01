@@ -1,5 +1,5 @@
 .home-container {
-  background-image: url('/assets/math-background.jpg');
+  background-image: url('../../../assets/math-background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
